@@ -1,5 +1,4 @@
-var module = angular.module('root', []);
-
-module.controller('index', [ '$scope', function ($scope) {
-	$scope.message = 'Hello, World!';
-}]);
+angular.module('root', [])
+	.controller('index', [ '$scope', function ($scope) {
+		$scope.message = 'Hello, World!';
+	}]);
