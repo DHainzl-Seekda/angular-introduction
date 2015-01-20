@@ -1,2 +1,2 @@
-# git-introduction
-Code for the Git Introduction
+# angular-introduction
+Code for the Angular JS Introduction
